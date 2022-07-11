@@ -12,3 +12,5 @@ Some of my more interesting *(and actually somewhat useful)* projects:
 *At the moment*, I'm able to do real work in **C++**, **C**, Rust and Python.
 
 *The first language I ever did something with* was Pawn in 2013.
+
+For any inquiries, contact me through the e-mail linked to my GitHub account.
