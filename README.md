@@ -3,6 +3,9 @@
 My name is Cristei Gabriel, I'm 17 years old and I'm passionate about computers.
 I generally do work relating to low*er* level programming (primarily memory introspection and reverse engineering), but I also do UI and functional programming, or work relating to language theory (either "engineering" toolchains from scratch, or expression systems (primarily meta-programming in this regard)), and I'm interested about how computers work **(primarily the part that interests programmers, not heavy on the electrical-engineering part)**.
 
+My current project:
+- [TeamSCALEFORM/scaleform](https://github.com/TeamSCALEFORM/scaleform)
+
 Some of my more interesting *(and actually somewhat useful)* projects:
 - [memscan](https://github.com/cristeigabriel/memscan)
 - [STB](https://github.com/cristeigabriel/STB)
