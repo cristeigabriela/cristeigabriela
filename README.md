@@ -9,6 +9,7 @@ My current project:
 Some of my more interesting *(and actually somewhat useful)* projects:
 - [memscan](https://github.com/cristeigabriel/memscan)
 - [STB](https://github.com/cristeigabriel/STB)
+- [4col](https://github.com/cristeigabriel/4col)
 
 *Currently*, I'm learning Scheme Lisp (using Racket's SICP lang), and I plan to continue with Common Lisp. I'm really enjoying the process and I have been able to make many parallels to my ways of thinking, which have certainly been solidified in the process.
 
