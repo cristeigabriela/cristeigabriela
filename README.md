@@ -13,6 +13,8 @@ Some of my more interesting *(and actually somewhat useful)* projects:
 
 *Currently*, I'm learning Scheme Lisp (using Racket's SICP lang), and I plan to continue with Common Lisp. I'm really enjoying the process and I have been able to make many parallels to my ways of thinking, which have certainly been solidified in the process.
 
+I'm also learning 2D graphical programming, and I find color theory interesting.
+
 *At the moment*, I'm able to do real work in **C++**, **C**, Rust and Python.
 
 *The first language I ever did something with* was Pawn in 2013.
