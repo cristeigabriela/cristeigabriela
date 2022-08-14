@@ -11,6 +11,9 @@ Some of my more interesting *(and actually somewhat useful)* projects:
 - [STB](https://github.com/cristeigabriel/STB)
 - [4col](https://github.com/cristeigabriel/4col)
 
+I also maintain the following fork of Ryan Fleury's layer for 4coder, with miscellaneous changes, and feature improvements (generally supporting C++ expressions):
+- [4coder_cgabe](https://github.com/cristeigabriel/4coder_cgabe)
+
 *Currently*, I'm learning Scheme Lisp (using Racket's SICP lang), and I plan to continue with Common Lisp. I'm really enjoying the process and I have been able to make many parallels to my ways of thinking, which have certainly been solidified in the process.
 
 I'm also learning 2D graphical programming, and I find color theory interesting.
