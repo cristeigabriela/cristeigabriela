@@ -10,6 +10,7 @@ Some of my more interesting *(and actually somewhat useful)* projects:
 - [memscan](https://github.com/cristeigabriel/memscan)
 - [STB](https://github.com/cristeigabriel/STB)
 - [4col](https://github.com/cristeigabriel/4col)
+- [gangstalker](https://github.com/cristeigabriel/gangstalker)
 
 I also maintain the following fork of Ryan Fleury's layer for 4coder, with miscellaneous changes, and feature improvements (generally supporting C++ expressions):
 - [4coder_cgabe](https://github.com/cristeigabriel/4coder_cgabe)
