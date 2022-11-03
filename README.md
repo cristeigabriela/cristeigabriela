@@ -15,7 +15,7 @@ I actively work with these.
 - Rust
 - Lua
 - Python
-- Various Racket languages, primarily SICP Scheme.
+- Various Racket languages, primarily SICP Scheme
 
 I started programming in 2013 with Pawn.
 
