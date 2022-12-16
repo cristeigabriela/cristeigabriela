@@ -6,6 +6,7 @@ Some work:
 - [STB](https://github.com/cristeigabriel/STB) - (C++) Compile-time library to turn hex sequence strings to arrays
 - [HelvetaCS](https://github.com/cristeigabriel/HelvetaCS) - (C++) Experimental game-hacking approaches with advanced native UI console (auto-suggest, focus, motions, caret movement, scrolling...)
 - [4col](https://github.com/cristeigabriel/4col) - (C++) Generate 4coder-fleury themes from base16 color schemes
+- [speechbubbler](https://github.com/cristeigabriel/speechbubbler) - (JavaScript) Add speech bubbles to images
 - [gangstalker](https://github.com/cristeigabriel/gangstalker) - (Python) Observe Steam group activity and notify to Discord
 
 Until recently, I maintained this.:
