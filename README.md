@@ -1,4 +1,4 @@
-My name is Cristei Gabriel, I'm 17 years old and passionate about computers. I generally do work relating to lower level programming, 2d graphics, UI, meta-programming and functional programming. I'm interested about how computers work.
+My name is Cristei Gabriel, I'm 18🎉 years old and passionate about computers. I generally do work relating to lower level programming, 2d graphics, UI, meta-programming and functional programming. I'm interested about how computers work.
 
 Some work:
 - [TeamSCALEFORM/scaleform](https://github.com/TeamSCALEFORM/scaleform) - (C, C++, JS) Bring back Scaleform CS:GO in-game HUD
