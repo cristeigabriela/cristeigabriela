@@ -1,4 +1,4 @@
-My name is Cristei Gabriel, I'm 18 years old and passionate about computers. I generally do work relating to lower level programming, 2d graphics, UI, meta-programming and functional programming. I'm interested about how computers work.
+My name is Cristei Gabriel, I'm 18 years old and passionate about computers. I generally do work relating to systems programming, reverse engineering, 2d graphics, UI, meta programming and functional programming. I'm interested about how computers work.
 
 Some work:
 - [TeamSCALEFORM/scaleform](https://github.com/TeamSCALEFORM/scaleform) - (C, C++, JS) Bring back Scaleform CS:GO in-game HUD
@@ -7,11 +7,12 @@ Some work:
 - [sdltext](https://github.com/cristeigabriel/sdltext) - (C)  Small, WIP, single-header, no dependency, text points compiler library
 - [STB](https://github.com/cristeigabriel/STB) - (C++) Compile-time library to turn hex sequence strings to arrays
 - [HelvetaCS](https://github.com/cristeigabriel/HelvetaCS) - (C++) Experimental game-hacking approaches with advanced native UI console (auto-suggest, focus, motions, caret movement, scrolling...)
-- [4col](https://github.com/cristeigabriel/4col) - (C++) Generate 4coder-fleury themes from base16 color schemes
 - [speechbubbler](https://github.com/cristeigabriel/speechbubbler) - (JavaScript) Add speech bubbles to images
 - [gangstalker](https://github.com/cristeigabriel/gangstalker) - (Python) Observe Steam group activity and notify to Discord
+- [4col](https://github.com/cristeigabriel/4col) - (C++) Generate 4coder-fleury themes from base16 color schemes
+- I have more work that is either not noted here, not released or not open source.
 
-Until recently, I maintained this.:
+I maintained this:
 - [4coder_cgabe](https://github.com/cristeigabriel/4coder_cgabe)
 
 I actively work with these.
@@ -20,7 +21,8 @@ I actively work with these.
 - Lua
 - JavaScript
 - Python
-- Various Racket languages, primarily SICP Scheme
+
+I like all kinds of Lisp, wish I could use some more.
 
 I started programming in 2013 with Pawn.
 
