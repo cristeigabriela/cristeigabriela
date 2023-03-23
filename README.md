@@ -5,7 +5,7 @@ Some work:
 - [memscan](https://github.com/cristeigabriel/memscan) - (C, C++) Smart memory introspection methods
 - [zoomer](https://github.com/cristeigabriel/zoomer) - (C) (X11 + SDL2) Linux screenshot, zoom-in and drag tool inspired by [Tsoding's "boomer"](https://github.com/tsoding/boomer/tree/master/src)
 - [sdltext](https://github.com/cristeigabriel/sdltext) - (C)  Small, WIP, single-header, no dependency, text points compiler library
-- [STB](https://github.com/cristeigabriel/STB) - (C++) Compile-time library to turn hex sequence strings to arrays
+- [STB](https://github.com/cristeigabriel/STB) - (C++) Compile-time conversion library, from IDA-style string to array (supports wildcarding)
 - [HelvetaCS](https://github.com/cristeigabriel/HelvetaCS) - (C++) Experimental game-hacking approaches with advanced native UI console (auto-suggest, focus, motions, caret movement, scrolling...)
 - [speechbubbler](https://github.com/cristeigabriel/speechbubbler) - (JavaScript) Add speech bubbles to images
 - [gangstalker](https://github.com/cristeigabriel/gangstalker) - (Python) Observe Steam group activity and notify to Discord
