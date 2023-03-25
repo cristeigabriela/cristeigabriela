@@ -15,6 +15,9 @@ Some work:
 I maintained this:
 - [4coder_cgabe](https://github.com/cristeigabriel/4coder_cgabe)
 
+Some Gists:
+- [[C++] Loose Counter-Strike 2 ScriptVM/LuaVM structure](https://gist.github.com/cristeigabriel/8df05a787932b85b8e6358173752133f)
+
 I actively work with these.
 - C, C++
 - Rust
