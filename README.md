@@ -1,3 +1,5 @@
+## I may be inactive as I'm busy with work
+
 My name is Cristei Gabriel, I'm 18 years old and passionate about computers. I generally do work relating to systems programming, reverse engineering, 2d graphics, UI, meta programming and functional programming.
 
 Some work:
@@ -20,6 +22,7 @@ Some Gists:
 
 I actively work with these.
 - C, C++
+- C#
 - Rust
 - Lua
 - JavaScript
