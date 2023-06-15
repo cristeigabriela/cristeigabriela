@@ -13,7 +13,8 @@ Some work:
 - [gangstalker](https://github.com/cristeigabriel/gangstalker) - (Python) Observe Steam group activity and notify to Discord
 - [4col](https://github.com/cristeigabriel/4col) - (C++) Generate 4coder-fleury themes from base16 color schemes
 - I have more work that is either not noted here, not released or not open source.
-
+- [powershell-scripts](https://github.com/cristeigabriel/powershell-scripts) - Collection of useful PowerShell scripts I use for personal stuff or work, will grow depending on what I want to sync.
+- 
 I maintained this:
 - [4coder_cgabe](https://github.com/cristeigabriel/4coder_cgabe)
 
