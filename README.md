@@ -13,6 +13,7 @@
 | [zoomer](https://github.com/cristeigabriel/zoomer) | C | Linux screenshot and zoom-in tool with many utilities |
 | [powershell-scripts](https://github.com/cristeigabriel/powershell-scripts) | PowerShell | Scripts I use both at work, and outside, generally paired with tools such as WinDbg, Registry Finder, ... |
 | [small-apps](https://github.com/cristeigabriel/small-apps) | C++ | Wouldn't be necessary if other, proper applications already did this |
+| [SAMPHack](https://github.com/cristeigabriel/SAMPHack) | C++ | Unfinished SA:MP cheat with thread-safe rendering and some other nice functionality, likely not gonna be updated |
 
 For other work, you may check my ["Repositories"](https://github.com/cristeigabriel?tab=repositories) tab.
 
