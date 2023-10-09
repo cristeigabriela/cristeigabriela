@@ -15,6 +15,11 @@
 | [small-apps](https://github.com/cristeigabriel/small-apps) | C++ | Wouldn't be necessary if other, proper applications already did this |
 | [SAMPHack](https://github.com/cristeigabriel/SAMPHack) | C++ | Unfinished SA:MP cheat with thread-safe rendering and some other nice functionality, likely not gonna be updated |
 
+## Pseudo-blog
+[Automatically transcribing a YouTube channel's videos locally (using JS, Python, yt-dlp and CMU Sphinx)](https://gist.github.com/cristeigabriel/62ac644c090b77a0c6bbd3fa07bf9b66)
+
+---
+
 For other work, you may check my ["Repositories"](https://github.com/cristeigabriel?tab=repositories) tab.
 
 ---
