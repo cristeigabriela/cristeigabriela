@@ -7,6 +7,7 @@
 | Repository | Languages | Description |
 | - | - | - |
 | [re-sysinternals-suite](https://github.com/cristeigabriel/re-sysinternals-suite) | C++ | Code from process of reversing Sysinternals Suite for educational purposes, videos available for every application reverse engineered in the folder's README |
+| [ALPCLogger](https://github.com/cristeigabriel/ALPCLogger) | C# | A dirty fork of zodiacon's ALPCLogger, with module names for stacktrace, and stacktrace filtering |
 | [TeamSCALEFORM/scaleform](https://github.com/TeamSCALEFORM/scaleform) | C, C++, JavaScript | Efficient replica of old "Scaleform" CS:GO in-game HUD design, (ab)using Panorama |
 | [memscan](https://github.com/cristeigabriel/memscan) | C, C++ | Smart memory scanning for Windows C++ binaries |
 | [STB](https://github.com/cristeigabriel/STB) | C++ | Constant-evaluated conversion library, from IDA-style pattern string, to array |
