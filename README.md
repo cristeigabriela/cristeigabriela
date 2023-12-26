@@ -17,7 +17,8 @@
 | [SAMPHack](https://github.com/cristeigabriel/SAMPHack) | C++ | Unfinished SA:MP cheat with thread-safe rendering and some other nice functionality, likely not gonna be updated |
 
 ## Pseudo-blog
-[Automatically transcribing a YouTube channel's videos locally (using JS, Python, yt-dlp and CMU Sphinx)](https://gist.github.com/cristeigabriel/62ac644c090b77a0c6bbd3fa07bf9b66)
+- [Getting custom colored Windows taskbar progress - Hacking Explorer and StartIsBack](https://gist.github.com/cristeigabriel/9dad75f1f71c57850c31a5349fd12c33)
+- [Automatically transcribing a YouTube channel's videos locally (using JS, Python, yt-dlp and CMU Sphinx)](https://gist.github.com/cristeigabriel/62ac644c090b77a0c6bbd3fa07bf9b66)
 
 ---
 
