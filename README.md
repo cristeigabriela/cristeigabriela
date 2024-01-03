@@ -12,6 +12,7 @@
 | [memscan](https://github.com/cristeigabriel/memscan) | C, C++ | Smart memory scanning for Windows C++ binaries |
 | [STB](https://github.com/cristeigabriel/STB) | C++ | Constant-evaluated conversion library, from IDA-style pattern string, to array |
 | [zoomer](https://github.com/cristeigabriel/zoomer) | C | Linux screenshot and zoom-in tool with many utilities |
+| [HCMetadataViewer](https://github.com/cristeigabriel/HCMetadataViewer) | C# |  Viewer for Hexacorn's WinAPI metadata (2013 data included)  |
 | [powershell-scripts](https://github.com/cristeigabriel/powershell-scripts) | PowerShell | Scripts I use both at work, and outside, generally paired with tools such as WinDbg, Registry Finder, ... |
 | [small-apps](https://github.com/cristeigabriel/small-apps) | C++ | Wouldn't be necessary if other, proper applications already did this |
 | [SAMPHack](https://github.com/cristeigabriel/SAMPHack) | C++ | Unfinished SA:MP cheat with thread-safe rendering and some other nice functionality, likely not gonna be updated |
