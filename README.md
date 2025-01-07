@@ -16,6 +16,7 @@
 | [powershell-scripts](https://github.com/cristeigabriel/powershell-scripts) | PowerShell | Scripts I use both at work, and outside, generally paired with tools such as WinDbg, Registry Finder, ... |
 | [small-apps](https://github.com/cristeigabriel/small-apps) | C++ | Wouldn't be necessary if other, proper applications already did this |
 | [SAMPHack](https://github.com/cristeigabriel/SAMPHack) | C++ | Unfinished SA:MP cheat with thread-safe rendering and some other nice functionality, likely not gonna be updated |
+| [cpuid.c](https://github.com/cristeigabriel/cpuid.c) | C | Quick application to dump cpuid info, mainly to dump steamdeck cpuid for my friend nave |
 
 ## Pseudo-blog
 - [Getting custom colored Windows taskbar progress - Hacking Explorer and StartIsBack](https://gist.github.com/cristeigabriel/9dad75f1f71c57850c31a5349fd12c33)
