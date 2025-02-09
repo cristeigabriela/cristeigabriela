@@ -16,7 +16,7 @@ reverse engineer, software engineer.
 ## concurrency
 | Repository | Languages | Description |
 | - | - | - |
-| [threadpool.c](https://github.com/cristeigabriel/threadpool.c/tree/main) | C | Massively concurrent, educational threadpool for C on Windows, using my own [perfect_stack.h](https://github.com/cristeigabriel/perfect_stack.h) (tested with 200 threads over 8 cores and 32000 concurrently pushed tasks) |
+| [threadpool.c](https://github.com/cristeigabriel/threadpool.c/tree/main) | C | Massively concurrent, educational threadpool for C on Windows, using my own [perfect_stack.h](https://github.com/cristeigabriel/perfect_stack.h) (tested with 200 threads over 8 cores and 32000 concurrently pushed tasks), includes full technical explication |
 | [perfect_stack.h](https://github.com/cristeigabriel/perfect_stack.h) | C | The perfect, single-header, atomic lock-free stack library for C on Windows. The way C was meant to be written |
 | [guards.hpp](https://github.com/cristeigabriel/guards.hpp) | C++ | Modern C++ mutex/shared_mutex guard for T, similar to Rust |
 
