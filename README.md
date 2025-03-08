@@ -41,6 +41,7 @@ reverse engineer, software engineer.
 
 `# -*- pseudo-blog -*-`
 ## posts
+- [(Windows, Frida) | (LinkedIn) Problems running PowerShell.exe in 32-bit mode (WoW64)](https://www.linkedin.com/feed/update/urn:li:activity:7304000902539939840/) 
 - [(x86, Windows, Linux, HV) What do those CPUID VM checks do, anyway?](https://gist.github.com/cristeigabriel/1fd1cc3c81c966a5feef8fde97d170ef)
 - [(Windows) Getting custom colored Windows taskbar progress - Hacking Explorer and StartIsBack](https://gist.github.com/cristeigabriel/9dad75f1f71c57850c31a5349fd12c33)
 - [(AI, General) Automatically transcribing a YouTube channel's videos locally (using JS, Python, yt-dlp and CMU Sphinx)](https://gist.github.com/cristeigabriel/62ac644c090b77a0c6bbd3fa07bf9b66)
