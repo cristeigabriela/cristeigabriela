@@ -1,7 +1,4 @@
-programming since 2013.<br>
-reverse engineer, software engineer.
-
-[PowerShell profile](https://github.com/cristeigabriel/PowerShell-Profile)
+> ☆ programming since 2013 | reverse engineer, software engineer | [PowerShell profile](https://github.com/cristeigabriel/PowerShell-Profile)
 
 `# -*- projects -*-`
 
