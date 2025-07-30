@@ -7,6 +7,11 @@
 | - | - | - |
 | [rust_async_exercises](https://github.com/cristeigabriela/rust_async_exercises) | Rust | I'm learning async Rust for my new job, and as a result, I'm doing some exercise programs to practice it. |
 
+## rust
+| Repository | Language | Description |
+| - | - | - |
+| [minhook-detours-sys](https://github.com/cristeigabriela/minhook-detours-sys) | Rust | Raw Rust bindings to [minhook-detours](https://github.com/m417z/minhook-detours). [minhook-detours](https://github.com/m417z/minhook-detours) is a MinHook API wrapper over [SlimDetours](https://github.com/KNSoft/KNSoft.SlimDetours). |
+
 ## reverse-engineering
 | Repository | Languages | Description |
 | - | - | - |
