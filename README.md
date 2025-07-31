@@ -10,6 +10,7 @@
 ## rust
 | Repository | Language | Description |
 | - | - | - |
+| [minhook-detours-rs](https://github.com/cristeigabriela/minhook-detours-rs) | Rust | Rustic wrapper of [minhook-detours-sys](https://github.com/cristeigabriela/minhook-detours-sys) bindings. Rust Windows hooking library supporting x86, x86_64, ARM64. |
 | [minhook-detours-sys](https://github.com/cristeigabriela/minhook-detours-sys) | Rust | Raw Rust bindings to [minhook-detours](https://github.com/m417z/minhook-detours). [minhook-detours](https://github.com/m417z/minhook-detours) is a MinHook API wrapper over [SlimDetours](https://github.com/KNSoft/KNSoft.SlimDetours). |
 
 ## reverse-engineering
