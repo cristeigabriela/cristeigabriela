@@ -18,7 +18,6 @@
 | - | - | - |
 | [persia](https://github.com/cristeigabriela/persia) | Rust | Incomplete DLL Portable Executable loader/"manual mapper" written in Rust. Misses some features. |
 | [TeamSCALEFORM/scaleform](https://github.com/TeamSCALEFORM/scaleform) | C, C++, JavaScript | Efficient replica of old "Scaleform" CS:GO in-game HUD design, (ab)using Panorama |
-| [re-sysinternals-suite](https://github.com/cristeigabriela/re-sysinternals-suite) | C++ | **(inactive)** Code from process of reversing Sysinternals Suite for educational purposes, videos available for every application reverse engineered in the folder's README |
 | [memscan](https://github.com/cristeigabriela/memscan) | C, C++ | Smart memory scanning for Windows C++ binaries |
 | [SAMPHack](https://github.com/cristeigabriela/SAMPHack) | C++ | Unfinished SA:MP cheat with thread-safe rendering and some other nice functionality, likely not gonna be updated |
 | [ALPCLogger](https://github.com/cristeigabriela/ALPCLogger) | C# | A dirty fork of zodiacon's ALPCLogger, with module names for stacktrace, and stacktrace filtering |
